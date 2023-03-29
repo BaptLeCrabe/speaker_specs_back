@@ -1,0 +1,45 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  driver: one
+  resonant_frequency: 1.5
+  qes: 1.5
+  qms: 1.5
+  qts: 1.5
+  vas: 1.5
+  re: 1.5
+  zmin: 1.5
+  le: 1.5
+  force_factor: 1.5
+  rms: 1.5
+  cms: 1.5
+  mmd: 1.5
+  mms: 1.5
+  sd: 1.5
+  xmax: 1.5
+  xlim: 1.5
+  xmaxvd: 1.5
+  efficiency: 1.5
+  ebp: 1.5
+
+two:
+  driver: two
+  resonant_frequency: 1.5
+  qes: 1.5
+  qms: 1.5
+  qts: 1.5
+  vas: 1.5
+  re: 1.5
+  zmin: 1.5
+  le: 1.5
+  force_factor: 1.5
+  rms: 1.5
+  cms: 1.5
+  mmd: 1.5
+  mms: 1.5
+  sd: 1.5
+  xmax: 1.5
+  xlim: 1.5
+  xmaxvd: 1.5
+  efficiency: 1.5
+  ebp: 1.5

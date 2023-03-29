@@ -1,0 +1,2 @@
+module ThieleSmallsHelper
+end

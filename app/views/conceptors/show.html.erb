@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @conceptor %>
+
+<div>
+  <%= link_to "Edit this conceptor", edit_conceptor_path(@conceptor) %> |
+  <%= link_to "Back to conceptors", conceptors_path %>
+
+  <%= button_to "Destroy this conceptor", @conceptor, method: :delete %>
+</div>

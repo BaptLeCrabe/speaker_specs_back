@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  plan_file: MyString
+  conceptor_id: 1
+  acoustic_load_id: 1
+  sensitivity: 1.5
+  hpf: MyString
+  f3: 1.5
+  driver_sizes: MyString
+  frequency_range: MyString
+  hornsrep_file: MyString
+  akabak_file: MyString
+  glb_file: MyString
+
+two:
+  name: MyString
+  plan_file: MyString
+  conceptor_id: 1
+  acoustic_load_id: 1
+  sensitivity: 1.5
+  hpf: MyString
+  f3: 1.5
+  driver_sizes: MyString
+  frequency_range: MyString
+  hornsrep_file: MyString
+  akabak_file: MyString
+  glb_file: MyString
